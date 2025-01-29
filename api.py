@@ -14,8 +14,8 @@ from fastapi.responses import JSONResponse, FileResponse
 # ============================
 # 1️⃣ Google Drive Model URLs
 # ============================
-GENERATOR_URL = "https://drive.google.com/uc?id=YOUR_GENERATOR_FILE_ID"
-DISCRIMINATOR_URL = "https://drive.google.com/uc?id=YOUR_DISCRIMINATOR_FILE_ID"
+GENERATOR_URL = "https://drive.google.com/file/d/1-BGnsHFNrzQy1s01BT8o18izle6lVcmc/view?usp=sharing"
+DISCRIMINATOR_URL = "https://drive.google.com/file/d/1-3cC4Ke2RB2UPX1qkK4dPgNTn6F3M5HA/view?usp=sharing"
 
 # Set model paths
 MODEL_DIR = "./models"
